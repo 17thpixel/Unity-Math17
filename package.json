@@ -1,7 +1,7 @@
 {
   "name": "com.17thpixel.math17",
   "displayName": "Math17",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "unity": "6000.3",
   "unityRelease": "6f1",
   "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
@@ -10,8 +10,7 @@
   },
   "author": {
     "name": "Damian Powazka",
-    "url": "http://www.example.com",
-    "email": "example@email.com"
+    "url": "17thpixel.com"
   },
   "changelogUrl": "https://example.com/changelog.html",
   "documentationUrl": "https://example.com/",
