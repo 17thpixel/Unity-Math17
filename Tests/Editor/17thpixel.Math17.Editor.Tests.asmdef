@@ -1,0 +1,14 @@
+{
+    "name": "Damianpowazka.Math17.Editor.Tests",
+    "references": [
+        "Damianpowazka.Math17.Editor",
+        "Damianpowazka.Math17"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

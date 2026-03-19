@@ -1,0 +1,11 @@
+{
+    "name": "Damianpowazka.Math17.Tests",
+    "references": [
+        "Damianpowazka.Math17"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

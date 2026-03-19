@@ -1,0 +1,10 @@
+{
+    "name": "Damianpowazka.Math17.Editor",
+    "references": [
+      "Damianpowazka.Math17"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

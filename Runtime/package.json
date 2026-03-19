@@ -1,0 +1,28 @@
+{
+  "name": "com.17thpixel.math17",
+  "version": "1.0.0",
+  "displayName": "Math17",
+  "description": "A custom math utility library for Unity providing extended mathematical functions and helpers.",
+  "unity": "6000.3",
+  "unityRelease": "6f1",
+  "license": "MIT",
+  "author": {
+    "name": "Damian Powazka",
+    "email": "dpowazka@gmail.com",
+    "url": "https://17thpixel.com"
+  },
+  "keywords": [
+    "math",
+    "utilities",
+    "extensions",
+    "unity"
+  ],
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Basic Examples",
+      "description": "Example usage of Math17 functions",
+      "path": "Samples~/BasicExamples"
+    }
+  ]
+}
